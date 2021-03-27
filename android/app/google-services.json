@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379226789898",
+    "project_id": "bhavjn-app",
+    "storage_bucket": "bhavjn-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379226789898:android:2e99b94ae712736138e7f3",
+        "android_client_info": {
+          "package_name": "com.bhavjnapp.bhavjnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379226789898-plb4j93ensspneonsl5u1o67lgtsq8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpVsMQ2RSMP4Cb4x8Rld_j3XVtkFPgaxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379226789898-plb4j93ensspneonsl5u1o67lgtsq8ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
